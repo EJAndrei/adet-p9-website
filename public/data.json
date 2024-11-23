@@ -1,0 +1,23 @@
+{
+    "home": {
+      "title": "Welcome to My Profile",
+      "description": "This is a brief overview of my professional journey and personal interests."
+    },
+    "about": {
+      "title": "About Me",
+      "description": "I am a College Student with a passion for building interactive websites and applications."
+    },
+    "education": {
+      "title": "Education",
+      "description": "I graduated Senior High from San Jose Pili National High School. With Honor"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "You can reach me via email at ejandreivillamer250@gmail.com."
+    },
+    "hobbies": {
+      "title": "My Hobbies",
+      "description": "In my free time, I love coding, playing video games, and hiking in nature."
+    }
+  }
+  
